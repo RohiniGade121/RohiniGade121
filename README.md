@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohini Gade</h1>
-<h3 align="center">I am intresting in web developing && Database management</h3>
+<h3 align="center">I am intresting in web developing-web designing && Database management</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohinigade121&label=Profile%20views&color=0e75b6&style=flat" alt="rohinigade121" /> </p>
 

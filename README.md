@@ -1,6 +1,5 @@
 # RohiniGade<h1 align="center">Hi 👋, I'm Rohini Gade</h1>
 <h3 align="center">I am intresting in web developing && Database management</h3>
-
 - 🌱 I’m currently learning **BSC COMPUTER SCIENCE**
 
 - 📫 How to reach me **rohini1330@gmail.com**
